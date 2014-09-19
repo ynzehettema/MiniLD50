@@ -1,0 +1,14 @@
+﻿TODO:
+
+V HUD Graphics
+V Sprite system
+V Actors!
+V Weapons
+V DOORS!
+V Levels
+V MenuState
+V Sounds
+V Music 
+V Intermission State
+
+
